@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Amisha-Adure
+- 👀 I’m interested in coading
+- 🌱 I’m currently learning C programming and IOT
+- 💞️ I’m looking to collaborate on projects
